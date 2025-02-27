@@ -1,6 +1,5 @@
+//comment
 #include "doubly-linked-list.h"
-
-
 #include <iostream>
 
 DoublyLinkedList::Node::Node(DataType data) {
